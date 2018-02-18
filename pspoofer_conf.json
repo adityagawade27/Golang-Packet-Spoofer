@@ -1,0 +1,15 @@
+{
+        "local":{
+          "device": "wlp4s0"
+        },
+        "packet":{
+           "srcIP":"192.168.12.11",
+           "dstIP": "172.31.12.12",
+           "srcMAC": "AA:AA:AA:AA:11:11",
+           "dstMAC": "BB:BB:BB:BB:22:22",
+           "TTL": 128,
+           "srcPort": 9910,
+           "dstPort": 6666
+        }
+}
+
